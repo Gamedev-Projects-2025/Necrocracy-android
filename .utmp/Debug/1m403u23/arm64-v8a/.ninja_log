@@ -1,0 +1,12 @@
+# ninja log v5
+90	1352	7596788705909818	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	bcda07395449e176
+1355	2163	7596788714088807	C:/Users/USER/Desktop/unityProjects/android/Necrocracy android/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.NecrocracyEntertheballot/gradle-project/unityLibrary/build/intermediates/cxx/Debug/1m403u23/obj/arm64-v8a/libswappywrapper.so	9031ace4a2bff90
+48	3700	7596788729238401	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	bac95ad53f9b7bdf
+60	3723	7596788729664113	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	60b6e705e77655ce
+1	3792	7596788729491737	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	f36a1e3e0e0ab61d
+71	3801	7596788730437041	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	fa973ab61d9cbaf2
+12	4017	7596788732676072	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	13862f546ee67a4c
+30	4068	7596788733166297	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	bf227a340f660a74
+39	4104	7596788733556465	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	b88aff70f8ce87bd
+21	4366	7596788736150582	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	23de12e918fe8891
+4366	4640	7596788738849902	C:/Users/USER/Desktop/unityProjects/android/Necrocracy android/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.NecrocracyEntertheballot/gradle-project/unityLibrary/build/intermediates/cxx/Debug/1m403u23/obj/arm64-v8a/libgame.so	5265baf1ff6d1916
